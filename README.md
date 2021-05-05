@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @phsimon
+- 👋 Hi, 
 - 👀 I’m interested in machine learning with focusing on recommender engine
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on recommender engine cutting edge algorithms
-- 📫 How to reach me : pierrehenri.simon@orange.com
+- 📫 How to reach me : 
 
 <!---
 phsimon/phsimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
